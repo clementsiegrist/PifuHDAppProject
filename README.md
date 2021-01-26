@@ -5,6 +5,6 @@ on your folders and path architectures
 
 You may have to create a __init__.py file in the app_projet_vision root folder
 
-cd Users/../app_proket_vision
+cd Users/../app_project_vision
 
 python flask_app.py
