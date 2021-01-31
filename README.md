@@ -22,6 +22,5 @@ python flask_app.py
 
 Manga Character | Transfer Style / Superhero
 ------------ | -------------
-![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/thor/Capture%20d%E2%80%99e%CC%81cran%202021-01-25%20a%CC%80%2014.54.05.png) | ![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/transfer/ts_blue.png)
-
+![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/thor/Capture%20d%E2%80%99e%CC%81cran%202021-01-25%20a%CC%80%2014.54.05.png) | ![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/transfer/ts_blue.png) |
 ![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/thor/Capture%20d%E2%80%99e%CC%81cran%202021-01-25%20a%CC%80%2013.30.57.png) | ![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/thor/Capture%20d%E2%80%99e%CC%81cran%202021-01-25%20a%CC%80%2014.58.50.png)
