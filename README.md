@@ -20,9 +20,8 @@ python flask_app.py
 
 ## Results of 3D Reconstruction on manga character image and transfer style image.
 
-Manga Character | Transfer Style
+Manga Character | Transfer Style / Superhero
 ------------ | -------------
 ![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/thor/Capture%20d%E2%80%99e%CC%81cran%202021-01-25%20a%CC%80%2014.54.05.png) | ![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/transfer/ts_blue.png)
-Manga Character | Superhero
- |
+
 ![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/thor/Capture%20d%E2%80%99e%CC%81cran%202021-01-25%20a%CC%80%2013.30.57.png) | ![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/thor/Capture%20d%E2%80%99e%CC%81cran%202021-01-25%20a%CC%80%2014.58.50.png)
