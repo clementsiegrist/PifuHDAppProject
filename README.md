@@ -18,7 +18,7 @@ cd Users/../app_project_vision
 python flask_app.py
 ```
 
-## Results of 3D Reconstruction on manga character image and transfer style image.
+## Results of 3D Reconstruction on manga character and transfer style images.
 
 Manga Character | Transfer Style
 ------------ | -------------
