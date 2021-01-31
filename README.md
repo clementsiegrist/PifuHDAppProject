@@ -1,7 +1,7 @@
 # app_projet_vision
 ## 3D Reconstruction of Humans with Images
 
-**Authors :** *Clément Siegrist*
+**Author :** *Clément Siegrist*
 
 Flask-app small html/css presentation of a sample of our work on 3D Reconstruction of Humans with Images. For more details and exemples of our results
 and of our work consults the slides of our oral presentation [here](https://github.com/clementsiegrist/app_projet_vision/blob/main/Grand_Projet_Vision_final-compressed.pdf).
