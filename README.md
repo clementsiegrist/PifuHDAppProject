@@ -18,7 +18,7 @@ cd Users/../app_project_vision
 python flask_app.py
 ```
 
-## Exemple of the Results of 3D Reconstruction with PifuHD on manga character image and transfer style image.
+## Results of 3D Reconstruction on manga character image and transfer style image.
 
 Manga Character | Transfer Style
 ------------ | -------------
