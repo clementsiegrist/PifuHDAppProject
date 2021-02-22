@@ -27,3 +27,12 @@ Manga Character | Transfer Style
 Manga Character | Superhero
 ------------ | -------------
 ![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/thor/Capture%20d%E2%80%99e%CC%81cran%202021-01-25%20a%CC%80%2013.30.57.png) | ![GitHub Logo](https://github.com/clementsiegrist/app_projet_vision/blob/main/static/thor/Capture%20d%E2%80%99e%CC%81cran%202021-01-25%20a%CC%80%2014.58.50.png)
+
+## 3D Reconstruction of Humans with Images
+S. Saito, T. Simon, J. Saragih, H. Joo.
+
+PIFuHD: Multi-Level Pixel-Aligned Implicit Function
+for High-Resolution 3D Human Digitization
+
+CVPR 2020 (Oral Presentation).
+[web link](https://shunsukesaito.github.io/PIFuHD/)
