@@ -4,7 +4,7 @@
 **Author :** *Clément Siegrist*
 
 Flask-app small html/css presentation of a sample of our work on 3D Reconstruction of Humans with Images. For more details and exemples of our results
-and of our work consults the slides of our oral presentation [here](https://github.com/clementsiegrist/app_projet_vision/blob/main/Grand_Projet_Vision_final-compressed.pdf) as well as the web page (to be completed) [here](http://clemsiegia.pythonanywhere.com/).
+and of our work consults the slides of our oral presentation [here](https://github.com/clementsiegrist/app_projet_vision/blob/main/Grand_Projet_Vision_final-compressed.pdf) as well as the web page (to be completed) [here](http://clemsiegia.pythonanywhere.com/) and download an animation realised with Blender and Adobe Mixamo [here](https://github.com/clementsiegrist/app_projet_vision/blob/main/one_anim/Front%20Twist%20Flip.fbx).
 
 You may have to change the path of the images in the html depending on your folders and path architectures. 
 
